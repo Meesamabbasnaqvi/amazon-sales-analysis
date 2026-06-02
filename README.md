@@ -201,11 +201,10 @@ Implement data-driven inventory planning to reduce stock-related cancellations a
 
 ## Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
-
 ```markdown
-![Dashboard Screenshot](Screenshots/dashboard.png)
+
 ```
+<img width="1320" height="743" alt="image" src="https://github.com/user-attachments/assets/371e37e5-5b76-449c-91a8-ae1410389b25" />
 
 ---
 
